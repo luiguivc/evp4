@@ -1,0 +1,16 @@
+.carousel-item img {
+    height: 500px; 
+    object-fit: cover;
+}
+
+
+.nav-item:hover{
+    background-color: black;  
+    color: white;
+     }
+
+
+.btn-danger:hover {
+    background-color: black;  
+    color: white;
+     }
